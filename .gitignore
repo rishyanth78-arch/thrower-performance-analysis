@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+secrets.toml
+
+# Credentials / Keys
+*.key
+*.pem
+credentials.json
+secrets.json
+config.json
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+
+# Data (review before pushing - may contain private athlete data)
+# data/
+# models/
+# outputs/
